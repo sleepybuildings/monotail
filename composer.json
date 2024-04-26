@@ -1,0 +1,20 @@
+{
+    "name": "sleepybuildings/monotail",
+    "type": "project",
+    "autoload": {
+        "files": [
+        ],
+        "psr-4": {
+            "Sleepybuildings\\Monotail\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Thsmit"
+        }
+    ],
+    "require": {
+        "symfony/console": "^7.0",
+        "nesbot/carbon": "^3.0"
+    }
+}
